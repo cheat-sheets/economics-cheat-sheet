@@ -2,7 +2,7 @@
 
 [Central Banks and Monetary Policy](https://www.coursera.org/learn/central-banks-monetary-policies/home/week/1)
 
-# Week 1
+# Week 1: Overview
 
 ## Short-Term Funding Market
 
@@ -103,7 +103,7 @@ In summary, the repo market is a vital financial instrument for secured lending,
 
 3. **Dependence on Short-Term Funding Markets**: Securitization is closely linked to short-term funding markets. Issuers often rely on short-term funding like commercial paper to build loan pools before securitization. Disruptions in these markets, as seen during the 2008 financial crisis, can break the securitization chain and significantly impact credit availability to businesses and households.
 
-# Week 2
+# Week 2: The Federal Reserve
 
 ### Overview
 
@@ -221,3 +221,123 @@ In summary, the repo market is a vital financial instrument for secured lending,
 
 3. **Two-Dimensional Impact of ONRRP**: The ONRRP operates on two dimensions. First, it offers an interest rate in an overnight funding market, similar to the federal funds market. If the ONRRP rate is higher than the federal funds rate, banks have an incentive to lend to the ONRRP, setting a lower bound for the federal funds rate. Second, the ONRRP reduces the total amount of reserves available, ensuring that the banking system retains only the reserves needed for liquidity purposes, effectively controlling the level of reserves.
 
+# Week 3: Monetary Policy and the Real Economy
+
+1. **Fed's Dual Mandate and Economic Impact**: The Federal Reserve aims to achieve maximum employment and stable prices, known as its dual mandate. This module explores how the Fed's monetary policy actions, particularly changes in the target interest rate, influence key macroeconomic outcomes like GDP, unemployment, and inflation.
+
+2. **Trade-Off Between Unemployment and Inflation**: The module highlights the inherent trade-off between unemployment and inflation in monetary policy. It discusses how easing monetary policy can reduce unemployment in the short term but may lead to higher inflation. This trade-off is crucial in the Fed's decision-making process and is reflected in rules like the Taylor rule, which guides interest rate adjustments based on economic conditions.
+
+3. **Mechanics and Limitations of Monetary Policy**: The course delves into the channels through which monetary policy affects economic growth, inflation, and unemployment, including its impact on credit and money supply, and investment and consumption decisions. It also covers the role of monetary policy in stabilizing economic cycles and discusses its limitations, particularly in addressing supply-side shocks and structural changes in industries.
+
+## The Link between Inflation and Unemployment
+
+### The Natural Rate of Unemployment and Okun’s Law
+
+1. **Okun's Law Essence**: Okun's Law reveals that a 1% increase in unemployment correlates with about a 2% decrease in Real GDP, indicating a strong negative correlation between economic growth and unemployment rates.
+
+2. **Natural Unemployment Rate**: The natural rate of unemployment is the baseline level in a fully employed economy, factoring in frictional and cyclical unemployment. Over time, it fluctuates due to labor market structure and policy changes.
+
+3. **Monetary Policy Limitations**: Monetary policy effectively targets cyclical but not natural unemployment. Recent unemployment trends, especially after 2000, reflect structural changes in the labor market and the evolving impact of technology.
+
+### Phillips Curve
+
+1. **[Phillips Curve Concept](https://en.wikipedia.org/wiki/Phillips_curve)**: Illustrates an inverse relationship between unemployment and inflation. Initially stable, this relationship varies over time, impacting wage growth and inflation rates. 
+ 
+The Phillips Curve formula is:
+
+```
+pi = pi^e - beta(u - u^*)
+```
+
+Where:
+- `pi` represents the actual rate of inflation.
+- `pi^e` is the expected rate of inflation.
+- `u` is the actual unemployment rate.
+- `u^*` is the natural rate of unemployment (the rate when the economy is at full employment).
+- `beta` is a coefficient indicating the sensitivity of inflation to the unemployment gap (`u - u^*`).
+
+
+2. **Curve Shift Factors**: Shifts in the Phillips Curve are influenced by changes in inflation expectations and external factors like supply shocks, affecting the trade-off between inflation and unemployment.
+
+3. **Monetary Policy Impact**: The curve informs monetary policy, guiding decisions on managing inflation and responding to economic conditions, emphasizing the importance of inflation expectations.
+
+### Discretionary and Rule-Based Monetary Policy
+
+1. **Rule-based vs. Discretionary Policy**: Examines the choice between constant, predictable rule-based monetary policy (advocated by Milton Friedman) and flexible, adaptive discretionary policy that responds to economic changes.
+
+  **Milton Friedman's Approach**: Friedman advocated for a rule-based monetary policy, specifically proposing a constant and predictable growth in the money supply. His approach, often referred to as the "k-percent rule," suggests that the central bank should increase the money supply by a fixed percentage rate annually, typically between 2% and 5%, regardless of business cycle fluctuations. 
+
+   - **Objective**: Aimed at promoting economic stability by avoiding sharp inflations or deflations.
+   - **Key Feature**: This rule disregards current economic conditions, meaning the central bank follows a pre-set algorithm without considering cyclical economic changes.
+   - **Advantage**: Provides financial markets and businesses with perfect predictability of monetary policy actions, allowing for stable long-term planning and decision-making.
+
+
+2. **Activist Policy Rationale**: Highlights the need for discretionary monetary policy, especially in mitigating the individual and economic impacts of recessions and extreme events like financial crises or pandemics.
+
+3. **Discretionary Policy Challenges**: Focuses on the central challenge of discretionary policy - balancing short-term actions with long-term stability, requiring central bank credibility and a careful approach to policy adjustments.
+
+### The Taylor Rule
+
+1. **Taylor Rule Basics**: The Taylor rule is a formula central bankers use to set nominal interest rates, balancing the trade-off between inflation and unemployment. It considers the real interest rate, target inflation rate, and deviations in actual inflation and output from their targets.
+
+i = r* + π + α(π−π*) + β(Y−Y*))
+
+- i is the nominal interest rate.
+- r* is the real equilibrium interest rate.
+- π is the current rate of inflation.
+- π* is the target rate of inflation.
+- Y is the logarithm of current real GDP.
+- Y* is the logarithm of potential output.
+- α and β are weights given to the inflation gap (π − π*) and the output gap (Y − Y*), respectively.
+
+2. **Application of the Rule**: The rule, proposed by John Taylor, incorporates weights for inflation rate (\( \alpha \)) and output gap rate (\( \beta \)). Historically, \( \alpha \) is set at 1.5, and \( \beta \) varies between 0.5 and 1. This rule has closely tracked the actual federal funds rate, indicating its effectiveness in monetary policy.
+
+3. **Federal Reserve's Use of the Rule**: The Federal Reserve includes the Taylor rule in its internal forecasts and decision-making processes, even considering modified versions to account for constraints like the zero lower bound on interest rates.
+
+## Transmission of Monetary Policy
+
+### How Do Changes in Monetary Policy Affect the Economy?
+
+1. **Transmission of Monetary Policy**: Explains how the Federal Open Market Committee's (FOMC) adjustments in the federal funds rate impact the economy. Changes in this rate lead to shifts in other interest rates, altering financial conditions. This affects households' and businesses' spending decisions, influencing economic growth, employment, and inflation.
+
+2. **Effects on Interest Rates and Economic Activities**: Demonstrates that a change in the federal funds rate directly impacts short-term interest rates, like the three-month US Treasury bill rate, and indirectly affects medium and long-term rates, such as the yield on a 10-year Treasury note. These shifts influence borrowing costs for firms and consumers, impacting investment and consumption. Additionally, changes in long-term interest rates affect stock prices, personal wealth, and spending decisions.
+
+3. **Empirical Outcomes of Federal Funds Rate Changes**: Utilizing a vector autoregression model, the lecture shows that an increase in the federal funds rate typically results in a contraction of the money supply (measured by M2), a decrease in industrial production after about six months, a rise in unemployment, and initially puzzling behaviors in consumer prices. The lecture highlights that monetary policy affects the economy with a lag and that its impacts are multifaceted.
+
+### The Bank Lending Channel
+
+1. **Net Interest Margin Impact**: Explores how the net interest margin (the difference between interest income from loans and interest expenses to depositors) affects bank profitability. Monetary policy influences this margin, as seen when the Federal Reserve adjusts the federal funds rate, impacting short-term interest rates. A higher federal funds rate can reduce the net interest margin, lowering bank profits and consequently their ability to extend new loans.
+
+Banks Net Interest Margin: https://fred.stlouisfed.org/series/DDEI01USA156NWDB
+
+2. **Reserves and Credit Supply**: Details how monetary policy affects bank reserves. When the Federal Reserve raises the federal funds rate through open market operations (selling securities to banks), it reduces the reserves in the banking system. This diminishes banks' short-term funding availability for lending, thereby tightening the credit supply.
+
+3. **Deposits and Bank Funding**: Discusses the effect of federal funds rate increases on bank deposits. Higher rates can lead to a withdrawal of deposits, particularly among large depositors, as they seek better returns elsewhere. This reduction in deposits means banks have less funding to offer as credit. The lecture notes that banks are strategic in setting deposit rates, responding more quickly in competitive banking environments.
+
+### The Balance Sheet and Refinancing Channels of Monetary Policy
+
+1. **Impact on Firm Finances**: Monetary policy directly influences firms' borrowing costs. Most firms rely on bank loans with floating interest rates tied to benchmarks like LIBOR. For instance, a Federal Reserve rate cut reduces the interest rate on a firm's loans, decreasing their interest expenses and freeing up funds for investment. This effect is more pronounced in smaller, financially constrained firms, impacting their production and employment decisions.
+
+2. **Consumer Mortgage Refinancing**: Changes in the federal funds rate affect mortgage rates, influencing consumer behavior, especially in refinancing decisions. When rates drop, consumers can refinance existing higher-rate mortgages to lower-rate ones, leading to significant savings in mortgage payments. This extra cash flow typically boosts consumer spending in various sectors, like automobile purchases or home renovations.
+
+30-Year Fixed Rate Mortgage Average in the United States: https://fred.stlouisfed.org/series/MORTGAGE30US
+
+3. **Aggregate Economic Effects**: The combined effect of reduced financing costs for firms and increased disposable income for households due to lower mortgage payments leads to increased consumption and investment. This uplifts overall demand for goods and services, benefiting the broader economy. The magnitude of these effects depends on the level of indebtedness and the balance sheet conditions of both firms and households.
+
+## Case Studies
+
+### Supply Shock: Stagflation
+
+1. **Stagflation in the 1970s**: The 1970s experienced stagflation, characterized by low growth, high inflation, and high unemployment. This period was marked by two major oil shocks: the OPEC embargo in 1973, which saw oil prices rise from $3 to $11 per barrel, and the Iranian Revolution and Iran-Iraq war in the late 1970s, leading to oil prices reaching $39.50 per barrel. These supply shocks significantly impacted the economy, including industries like U.S. car manufacturing, and led to high inflation and unemployment.
+
+2. **Responses to Oil Shocks**: The Federal Reserve faced challenges in addressing stagflation since traditional monetary policy tools are less effective against supply shocks. Responses included non-monetary measures like gas rationing, imposing a national maximum speed limit of 50 miles / hour, introducing fuel economy standards, and developing the Strategic Petroleum Reserve. These measures, along with increased oil production, eventually led to reduced oil prices and inflation in the 1980s.
+
+3. **Monetary Policy and Inflation Expectations**: Paul Volcker's tenure as Federal Reserve Chairman saw a decisive move to combat high inflation and inflation expectations by significantly raising the federal funds rate, reaching 19% in 1981. This approach caused short-term increases in unemployment but was crucial in establishing a credible commitment to low inflation, which helped to shift inflation expectations and establish a low inflation regime.
+
+### Jobless Recovery and Consequences of Accommodative Monetary Policy
+
+1. **Jobless Recovery in Early 2000s**: The early 2000s experienced a 'jobless recovery', where despite accommodative monetary policy (low interest rates), the labor market recovered slowly. This phenomenon first appeared after the 1990 recession, but was more pronounced after the 2001 recession. Factors contributing to this included high uncertainty due to events like the September 11th attacks, wars in Afghanistan and Iraq, and corporate scandals like Enron.
+
+2. **Impact of Structural Changes**: The slow labor market recovery was also attributed to structural changes in the economy, particularly in manufacturing. The decline in manufacturing jobs, accelerated by increased international competition and significant policy changes like China's entry into the World Trade Organization, led to job losses that were not quickly offset by gains in growing industries like technology.
+
+3. **Unintended Consequences of Monetary Policy**: Accommodative monetary policy in the early 2000s, characterized by extremely low federal funds rates, inadvertently fueled a housing boom. This led to increased consumer spending through mortgage refinancing and home equity lines of credit, but also heightened risk-taking in the financial system. These conditions contributed to the build-up of risks that precipitated the 2008 financial crisis, highlighting the limitations of monetary policy in addressing structural unemployment and its potential to create financial instability.
