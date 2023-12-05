@@ -341,3 +341,83 @@ Banks Net Interest Margin: https://fred.stlouisfed.org/series/DDEI01USA156NWDB
 2. **Impact of Structural Changes**: The slow labor market recovery was also attributed to structural changes in the economy, particularly in manufacturing. The decline in manufacturing jobs, accelerated by increased international competition and significant policy changes like China's entry into the World Trade Organization, led to job losses that were not quickly offset by gains in growing industries like technology.
 
 3. **Unintended Consequences of Monetary Policy**: Accommodative monetary policy in the early 2000s, characterized by extremely low federal funds rates, inadvertently fueled a housing boom. This led to increased consumer spending through mortgage refinancing and home equity lines of credit, but also heightened risk-taking in the financial system. These conditions contributed to the build-up of risks that precipitated the 2008 financial crisis, highlighting the limitations of monetary policy in addressing structural unemployment and its potential to create financial instability.
+
+# Week 4: Financial Crises
+
+1. **Central Banks as Lenders of Last Resort**: The module discusses the role of central banks in responding to financial crises, primarily as lenders of last resort. It examines historical financial crises like the Panic of 1907 and the Great Depression to illustrate the need for central banks in stabilizing financial systems. These examples demonstrate how central banks can intervene effectively but also highlight the limits of their actions.
+
+2. **Causes of Financial Crises**: The module identifies common themes in various financial crises, emphasizing the role of credit booms, often financed with short-term or foreign funding, and combined with long-term investments or unsustainable government policies. It notes that while not all credit booms lead to crises, certain sectors like manufacturing have historically been more resilient to such booms.
+
+3. **Policy Responses to Crises**: Focuses on how central banks can mitigate the effects of financial crises. Examples include the Federal Reserve's response to the 2008 financial crisis and the COVID-19 pandemic, showcasing its role in providing liquidity when other sources dry up. Additionally, the module discusses the role of fiscal policy, involving government transfers and spending, as an alternative or complementary response to crises.
+
+### Bank Runs and the Panic of 1907
+
+1. **Bank Runs and Liquidity Transformation**: The lecture delves into the Panic of 1907, highlighting the inherent risks in banks' business models. Banks perform liquidity transformation by borrowing short-term (through deposits) and lending long-term. This creates a maturity mismatch, making banks susceptible to runs if many depositors simultaneously withdraw funds, leading to a liquidity crisis even if the bank's investments are profitable.
+
+2. **The Panic of 1907**: This crisis serves as a classic example of a bank run, exacerbated by the absence of a central bank for emergency liquidity and lack of deposit insurance. The panic was triggered by multiple factors, including the San Francisco earthquake's financial ripple effects, stock market declines, tight credit conditions, and speculative activities in the copper market. The situation escalated with the collapse of United Copper Company's stock, leading to a run on Knickerbocker Trust and subsequent bank failures.
+
+3. **Resolution and Lessons Learned**: J.P. Morgan's intervention as a private lender of last resort helped stabilize the crisis temporarily. However, this episode underscored the limitations of relying on private entities for such roles and the need for systematic solutions like deposit insurance and a central bank. The Panic of 1907 thus played a crucial role in the establishment of the Federal Reserve System and highlighted the importance of government-backed support in maintaining financial stability.
+
+### The Great Depression
+
+1. **Financial Developments During the Great Depression**: The Great Depression, beginning with the stock market crash of 1929, led to a massive economic downturn. Contributing factors included a lack of central bank support and deposit insurance, leading to widespread bank failures. These bank closures drastically reduced the money supply and lending, exacerbating the economic crisis.
+
+2. **Bank Failures and Economic Consequences**: The lecture highlights the severe consequences of large-scale bank failures during the Great Depression. Approximately 9,000 banks closed between 1929 and 1933, resulting in a sharp decrease in deposits and credit availability. The Federal Reserve's limited intervention, constrained by the gold standard, failed to prevent a severe deflationary spiral, leading to widespread bankruptcies and investment reductions.
+
+3. **Policy Responses and Institutional Changes**: The response to the Great Depression included significant political and institutional changes. The Emergency Banking Act of 1933 and the Banking Act (Glass-Steagall Act) of 1933 reformed the banking system, establishing the Federal Deposit Insurance Corporation (FDIC) and separating commercial and investment banking. The New Deal programs aimed to alleviate unemployment and establish a social safety net. However, the recession of 1937 demonstrated the risks of withdrawing economic support prematurely. The recovery was ultimately aided by increased government spending due to the defense build-up in Europe.
+
+### An International Perspective of Financial Crises
+
+1. **Global Financial Crises Overview**: This lecture examines five major global financial crises: the Panic of 1873, the Baring Crisis of 1890, the Panic of 1907, the Great Depression of 1930/31, and the 2008 Financial Crisis. These crises share common themes of financial market stress, with each originating from different vulnerabilities like speculative investments, government debt, or housing markets, and spreading globally due to interconnected financial systems.
+
+2. **Idiosyncratic Financial Crises**: The lecture contrasts global crises with more localized, idiosyncratic financial crises, using examples like Turkey's crises in 2001 and 2018, and the 1997 Asian Financial Crisis. These crises highlight vulnerabilities specific to emerging markets, such as reliance on foreign loans, political instability, and pegged exchange rates, leading to credit crunches and economic slowdowns when foreign investors withdraw their support.
+
+3. **Common Themes and Lessons Learned**: Across all these crises, common factors include reliance on short-term funding, high leverage, and investments in long-term projects or unsustainable policies. These elements contribute to the severity and spread of financial crises, underscoring the need for robust financial systems and regulatory oversight to manage risks and prevent widespread economic downturns.
+
+### Auto Loans During the 2008 Financial Crisis
+
+1. **Auto Loans and Non-Bank Lenders in the 2008 Crisis**: This lecture focuses on the impact of the 2008 financial crisis on the auto loan market, highlighting the significant role of non-bank lenders, particularly captive finance companies owned by automakers. These companies, major players in auto financing, relied heavily on short-term funding through asset-backed commercial paper and securities.
+
+2. **Crisis Impact on Captive Finance Companies**: As the crisis unfolded, investors became wary of the quality of loan pools backing asset-backed commercial papers, particularly questioning the inclusion of subprime auto loans. This skepticism led to a funding crunch as investors refused to roll over these papers, similar to a bank run, causing a dramatic tightening of credit standards by companies like General Motors Acceptance Corporation.
+
+3. **Consequences on Auto Sales and Credit Supply**: The crisis in the asset-backed commercial paper market led to a significant drop in auto loan originations and a consequent plunge in auto sales. This drop was uneven across the country, with the most significant declines in regions where captive finance lenders had the largest market shares. The tightening of credit by these companies contributed to about one-third of the drop in auto sales during the financial crisis.
+
+4. **Broader Implications of Non-Bank Financial Runs**: The case of captive finance companies during the 2008 crisis underscores that financial institutions engaging in maturity transformation, even outside the banking sector, are susceptible to runs. These non-bank institutions lacked access to emergency liquidity from the Federal Reserve, demonstrating a regulatory oversight in addressing risks in non-bank financial sectors.
+
+### Credit Booms and Busts
+
+1. **Credit Booms and Their Impact**: This lecture explores different types of credit booms and their varying outcomes. It highlights that not all credit booms lead to financial crises or severe recessions. The discussion includes international examples to understand which credit booms are most likely to have adverse effects.
+
+2. **Global Increase in Private Credit**: Over the last five decades, there has been a significant rise in the private credit to GDP ratio globally, with household debt being a major driver. The lecture notes the shift in corporate credit from tradable sectors like manufacturing to non-tradable sectors such as construction and real estate. This shift is crucial in understanding the impact of credit booms.
+
+3. **Case Studies of Credit Booms and Busts**: Various examples illustrate how credit booms in different sectors lead to different outcomes. Credit booms in tradable sectors, like manufacturing, are usually driven by international demand and can be sustainable. In contrast, booms in non-tradable sectors, especially real estate, are often supported only by local demand and are more likely to result in busts. The lecture examines specific cases, including the Japanese real estate boom and bust in the 1980s, the Nordic crisis in the late 1980s and early 1990s, and the Mexican Tequila Crisis, to illustrate these points.
+
+4. **Sustainability of Credit Booms**: The lecture concludes that credit booms in the tradable sector can be sustainable due to global demand supporting additional debt. However, booms in household and construction credit, particularly when following deregulation, often lead to busts with severe negative consequences, a pattern observed in both advanced and emerging economies.
+
+### Liquidity Provision of the Federal Reserve's Response to the 2008 Financial Crisis
+
+1. **Federal Reserve's Response to 2008 Crisis**: This lecture examines the Federal Reserve's various programs and interventions during the 2008 financial crisis. These measures were aimed at providing short-term liquidity to banks and directly to borrowers and investors in key financial markets, illustrating the Fed's role as the lender of last resort.
+
+2. **Short-Term Liquidity Programs**: The Fed introduced several programs to address funding pressures, especially in term lending markets. This included the Term Auction Facility (TAF) for banks, extending credit through auctions to address the stigma associated with borrowing from the Fed's discount window. The Primary Dealer Credit Facility (PDCF) provided overnight loans to primary dealers, using a wide range of collateral, and the Term Securities Lending Facility (TSLF) offered Treasury securities loans against less liquid securities.
+
+3. **Commercial Paper and Asset-Backed Securities Support**: The Commercial Paper Funding Facility (CPFF) directly purchased high-quality commercial paper from issuers to support short-term funding markets. The Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility (AMLF) assisted money funds in selling asset-backed commercial paper. These facilities aimed to stabilize key financial markets outside the traditional banking system.
+
+4. **Term Asset-Backed Securities Loan Facility (TALF)**: Established to revive the securitization markets for consumer and business loans, TALF provided loans for purchasing highly rated asset-backed securities, playing a significant role in reducing borrowing costs and restarting credit flow to consumers and businesses.
+
+5. **Design and Impact of Federal Reserve Programs**: The Fed's programs were designed to provide necessary financing while ensuring the safety of the funds lent out. Borrowers were required to post high-quality collateral and pay interest rates above normal market rates to discourage reliance on these facilities under normal market conditions. These measures effectively supported financial markets during the crisis and were phased out as conditions normalized, fulfilling the Fed's lender of last resort function.
+
+### Liquidity Provision of the Federal Reserve's Response to the Covid-19 Pandemic
+
+1. **Broad Market Interventions by the Federal Reserve**: During the COVID-19 pandemic, the Federal Reserve implemented extensive measures, including purchasing treasury and mortgage-backed securities, and establishing new facilities like the Primary and Secondary Market Corporate Credit Facilities (PMCCF and SMCCF). These interventions targeted various financial markets, including corporate bonds, to ensure liquidity and stability.
+
+2. **Innovative Programs for Diverse Economic Sectors**: The Fed introduced novel programs such as the Main Street Lending Program and the Municipal Liquidity Facility to support small and medium-sized businesses, and state and local governments. Additionally, the Payment Protection Program Liquidity Facility (PPPLF) was crucial for funding loans under the Paycheck Protection Program, aiding businesses during the pandemic's economic downturn.
+
+3. **Effective Stabilization of Financial Markets**: The Federal Reserve's interventions were successful in stabilizing financial markets, as indicated by the rapid improvement in market conditions, like the decrease in corporate bond yields following the announcement of these measures. Despite the low usage of some facilities, the Fed's actions were effective in preventing a financial meltdown and fostering a quicker economic recovery.
+
+### Fiscal Responses to Financial Crises
+
+1. **Government Transfers and Support Measures**: To mitigate the effects of financial crises, governments implement direct transfers to consumers, like stimulus checks, and targeted interventions like increased unemployment benefits. Programs like the Paycheck Protection Program during COVID-19, designed to help businesses retain employees, effectively maintain consumption levels by ensuring continuous income for workers.
+
+2. **Business Investment and Government Intervention**: Government options to stimulate business investment directly are limited. However, tax incentives or accelerated depreciation schedules can encourage business investment indirectly. The key driver for business investment remains the demand for goods.
+
+3. **Government Spending and Fiscal Stimulus**: Government spending, especially in times of recession, can substitute for lost private demand. The effectiveness of this spending, often debated, hinges on the government spending multiplier's value. If it's greater than one, government spending effectively boosts GDP. The success of such fiscal stimulus also depends on the speed and efficiency of the expenditure and its alignment with the skills and needs of the workforce.
