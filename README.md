@@ -87,6 +87,8 @@ In summary, the repo market is a vital financial instrument for secured lending,
 
 [10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity](https://fred.stlouisfed.org/series/T10Y2Y)
 
+[United States - Government Bonds Yield Curve](https://www.investing.com/rates-bonds/usa-government-bonds)
+
 ### Money Market Mutual Funds
 
 1. **Popularity and Function of Money Market Funds**: Money market mutual funds, managing over $4.4 trillion in early 2021, are popular due to their ability to offer higher interest rates compared to bank deposits. They invest in low-risk, short-term debt securities like US Treasury bills and highly rated commercial paper, making them a significant component of the financial system for short-term lending.
